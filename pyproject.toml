@@ -3,3 +3,4 @@ name = "abliteration"
 version = "0.1.0"
 description = "Make abliterated models with transformers, easy and fast"
 requires-python = ">=3.10"
+# match the style used in the rest of the module
